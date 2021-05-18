@@ -1,0 +1,3 @@
+keyboard
+pywin32
+cx_freeze
