@@ -1,4 +1,4 @@
-# commande à taper en ligne de commande après la sauvegarde de ce fichier:
+# You need to type the following if want to convert the file to *.exe:
 # python setup.py build
 
 from cx_Freeze import setup, Executable
