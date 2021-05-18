@@ -1,4 +1,4 @@
-# You need to type the following if want to convert the file to *.exe:
+# You need to type the following comand if want to convert the file to *.exe:
 # python setup.py build
 
 from cx_Freeze import setup, Executable
